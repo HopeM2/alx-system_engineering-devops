@@ -1,0 +1,3 @@
+#!/bin/ash
+ls -all
+ls -all
