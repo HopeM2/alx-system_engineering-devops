@@ -1,2 +1,1 @@
- #!bin/bash 
- task 0 
+task 0
